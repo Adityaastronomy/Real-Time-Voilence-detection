@@ -16,13 +16,13 @@ To test and experiment with the trained model, we have provided a Google Colab n
 Colab Notebook for Model Testing - https://colab.research.google.com/drive/1FR8vkhhI1iNsxRWfgA_1eqINUr-kKbUq?usp=sharing
 
 #Installation
-Prerequisites
-Python 3.6+
-TensorFlow
-OpenCV
-Other dependencies as listed in requirements.txt
-Setup
-Clone the repository:
+- Prerequisites
+- Python 3.6+
+- TensorFlow
+- OpenCV
+- Other dependencies as listed in requirements.txt
+- Setup
+- Clone the repository:
 
 
 #Copy code
@@ -47,8 +47,6 @@ Output: The system will process the video and output frames where violence is de
 #Contribution
 Feel free to open issues or submit pull requests for any improvements or bug fixes.
 
-#License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 #Future Scope
 We will extend this project and add another part of creating a violence alert message with the face of person who is detected.
